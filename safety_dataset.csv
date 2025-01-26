@@ -1,0 +1,6 @@
+crime_rate,crowd_density,time_of_day,weather_condition,lighting,longitude,location_type,city,place,safety_score,crime_rate_pred,crowd_density_pred,time_of_day_pred,weather_condition_pred
+4.2,300,2,Clear,1,77.1025,2,New Delhi,Connaught Place,3,4.0,300,2,0
+2.1,50,1,Rainy,2,72.8777,1,Mumbai,Bandra,8,2.0,50,1,1
+3.5,150,0,Foggy,1,77.5946,2,Bangalore,MG Road,6,3.5,150,0,2
+7.8,400,3,Clear,0,80.2707,0,Chennai,T. Nagar,2,7.0,400,3,0
+5.0,100,1,Clear,2,88.3639,1,Kolkata,Park Street,7,5.0,100,1,0

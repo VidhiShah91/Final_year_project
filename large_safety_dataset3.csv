@@ -1,0 +1,1001 @@
+crime_rate,crowd_density,time_of_day,weather_condition,longitude,location_type,city,place,safety_score
+9.02,699,2,Cloudy,77.0202,5,Chennai,Salt Lake City,6.83
+1.15,844,3,Stormy,77.0317,2,Bangalore,MG Road,8.91
+9.06,292,3,Foggy,77.2865,1,Mumbai,MG Road,5.93
+3.53,906,1,Cloudy,77.2701,4,Chennai,Marine Drive,9.47
+8.48,527,2,Clear,77.024,1,Chennai,Park Street,7.71
+6.4,634,1,Clear,77.0762,1,Mumbai,Brigade Road,8.77
+7.2,62,2,Stormy,77.2018,5,Kolkata,Indiranagar,6.53
+6.46,431,3,Stormy,77.1732,4,Chennai,Connaught Place,6.5
+9.71,343,3,Clear,77.0663,2,Mumbai,Park Street,6.48
+9.42,395,1,Stormy,77.1465,5,Bangalore,Park Street,5.91
+0.13,159,3,Rainy,77.0716,4,Kolkata,Park Street,9.38
+8.95,818,1,Clear,77.0668,5,Mumbai,Connaught Place,7.28
+2.35,711,1,Clear,77.1351,3,Chennai,Salt Lake City,10.0
+0.96,561,3,Rainy,77.1078,5,New Delhi,DLF Mall,8.93
+1.06,820,1,Clear,77.2675,1,Bangalore,Salt Lake City,10.0
+5.15,824,2,Foggy,77.1095,4,Mumbai,Park Street,7.9
+9.8,357,3,Rainy,77.111,3,New Delhi,Brigade Road,5.65
+4.49,540,3,Stormy,77.098,5,Bangalore,MG Road,7.11
+2.92,851,3,Cloudy,77.149,3,New Delhi,Connaught Place,9.0
+9.1,850,2,Cloudy,77.2636,3,Mumbai,Salt Lake City,7.13
+3.24,291,1,Stormy,77.1653,1,Chennai,Brigade Road,8.86
+6.36,220,2,Clear,77.1914,5,Mumbai,Indiranagar,8.0
+9.86,966,2,Cloudy,77.0092,2,Kolkata,Park Street,6.95
+2.34,626,3,Stormy,77.1496,1,Kolkata,Phoenix Marketcity,8.49
+5.04,948,2,Foggy,77.0786,4,New Delhi,Phoenix Marketcity,7.97
+2.97,979,1,Cloudy,77.159,3,Kolkata,Park Street,9.81
+2.08,781,2,Cloudy,77.1586,1,Kolkata,MG Road,10.0
+5.59,532,2,Clear,77.0804,4,New Delhi,Salt Lake City,8.57
+4.18,702,3,Clear,77.121,5,Mumbai,DLF Mall,8.37
+3.47,452,3,Cloudy,77.1095,2,Kolkata,Salt Lake City,8.8
+3.07,900,1,Rainy,77.2803,3,Kolkata,DLF Mall,9.25
+8.85,84,2,Clear,77.105,2,Bangalore,Phoenix Marketcity,7.38
+6.57,929,1,Stormy,77.1022,3,Kolkata,Cyber Hub,7.46
+3.89,985,1,Stormy,77.0854,3,Mumbai,DLF Mall,8.54
+2.98,217,1,Stormy,77.1262,3,Kolkata,Cyber Hub,8.75
+5.75,546,2,Rainy,77.1851,1,Kolkata,Park Street,8.11
+3.75,713,1,Rainy,77.2164,5,Mumbai,Salt Lake City,8.64
+3.8,195,1,Foggy,77.0448,3,Chennai,Marine Drive,8.62
+9.24,793,1,Cloudy,77.1062,1,New Delhi,Cyber Hub,7.46
+5.95,517,2,Foggy,77.1286,5,New Delhi,Phoenix Marketcity,7.32
+3.55,553,1,Rainy,77.2229,4,Kolkata,Connaught Place,8.89
+9.17,405,2,Clear,77.0368,4,Kolkata,Connaught Place,7.11
+3.65,494,1,Stormy,77.1057,3,Chennai,Salt Lake City,8.54
+5.06,566,1,Clear,77.0964,3,Mumbai,Salt Lake City,9.09
+4.19,905,2,Foggy,77.006,5,Kolkata,Marine Drive,8.1
+4.09,451,1,Rainy,77.1638,1,Kolkata,Phoenix Marketcity,8.95
+6.39,76,2,Foggy,77.2574,5,Bangalore,Brigade Road,7.06
+3.48,282,3,Clear,77.1715,2,Kolkata,DLF Mall,8.96
+7.38,242,1,Stormy,77.1732,1,Kolkata,Marine Drive,7.2
+5.64,792,2,Stormy,77.0766,1,Bangalore,Connaught Place,7.8
+1.2,69,1,Stormy,77.0362,3,Mumbai,Indiranagar,9.43
+2.54,551,1,Rainy,77.2226,3,Kolkata,Cyber Hub,9.39
+7.46,474,1,Rainy,77.0092,1,New Delhi,Marine Drive,7.61
+7.53,830,1,Clear,77.0306,4,Chennai,Indiranagar,8.05
+2.64,891,1,Clear,77.1671,1,Kolkata,Brigade Road,10.0
+1.34,846,2,Stormy,77.0343,1,Mumbai,Indiranagar,9.53
+9.75,747,2,Stormy,77.176,2,Chennai,Phoenix Marketcity,6.05
+8.1,260,1,Clear,77.2472,5,Chennai,Marine Drive,7.51
+9.53,618,1,Clear,77.1986,1,Bangalore,Phoenix Marketcity,7.51
+6.72,458,2,Stormy,77.2698,2,Kolkata,Connaught Place,7.2
+0.58,868,2,Clear,77.2855,1,Chennai,Phoenix Marketcity,10.0
+7.55,253,1,Rainy,77.1858,3,Kolkata,DLF Mall,7.33
+4.4,268,1,Foggy,77.293,1,Bangalore,Cyber Hub,8.59
+8.24,59,2,Clear,77.1209,5,Mumbai,Park Street,7.22
+6.49,540,3,Rainy,77.0519,1,Mumbai,Indiranagar,7.21
+7.81,237,2,Rainy,77.2372,1,Bangalore,Connaught Place,7.22
+4.12,184,2,Stormy,77.0625,4,Chennai,DLF Mall,7.99
+0.35,394,2,Rainy,77.1135,5,Mumbai,Brigade Road,9.74
+8.66,685,2,Foggy,77.2272,3,Mumbai,Cyber Hub,6.57
+7.17,768,2,Rainy,77.167,4,Chennai,Brigade Road,7.29
+9.2,899,3,Cloudy,77.0215,2,Mumbai,MG Road,6.6
+8.79,56,3,Rainy,77.1646,5,Bangalore,Marine Drive,5.7
+9.74,987,2,Rainy,77.1412,5,Mumbai,Park Street,6.1
+7.93,314,2,Stormy,77.2426,5,New Delhi,Salt Lake City,6.29
+4.38,198,3,Stormy,77.1517,3,Chennai,MG Road,7.39
+4.58,388,1,Stormy,77.2184,5,Mumbai,Connaught Place,7.85
+3.01,852,1,Cloudy,77.0421,5,New Delhi,Brigade Road,9.47
+8.03,503,1,Foggy,77.1058,5,Kolkata,DLF Mall,6.69
+5.33,468,3,Stormy,77.258,3,New Delhi,Marine Drive,7.06
+4.29,942,2,Rainy,77.12,2,Mumbai,Brigade Road,8.67
+6.4,406,1,Rainy,77.1621,1,Kolkata,Connaught Place,8.02
+4.06,539,3,Clear,77.03,1,Chennai,Salt Lake City,8.88
+5.61,216,2,Clear,77.2452,1,New Delhi,Marine Drive,8.8
+1.06,623,3,Clear,77.2838,2,New Delhi,Marine Drive,10.0
+1.77,441,3,Foggy,77.1355,1,Mumbai,Phoenix Marketcity,8.88
+7.99,523,1,Stormy,77.2743,5,New Delhi,Cyber Hub,6.51
+0.64,476,3,Stormy,77.1378,2,Kolkata,Phoenix Marketcity,9.04
+4.75,497,3,Cloudy,77.0106,5,Kolkata,Park Street,7.9
+9.87,610,2,Clear,77.1608,1,Bangalore,Cyber Hub,7.17
+2.46,661,1,Cloudy,77.1318,1,Kolkata,DLF Mall,10.0
+1.97,310,2,Cloudy,77.1601,3,Mumbai,Indiranagar,9.87
+6.9,987,1,Cloudy,77.1228,3,Bangalore,Phoenix Marketcity,8.24
+7.86,209,3,Clear,77.2032,1,Kolkata,Phoenix Marketcity,7.3
+8.12,950,2,Foggy,77.2621,2,Bangalore,Salt Lake City,6.94
+0.12,402,2,Rainy,77.1207,1,Mumbai,Phoenix Marketcity,10.0
+9.6,325,2,Foggy,77.1244,5,New Delhi,Park Street,5.83
+7.25,497,2,Clear,77.2561,1,Chennai,Brigade Road,8.2
+3.6,133,1,Cloudy,77.19,5,Chennai,Indiranagar,9.09
+5.16,287,1,Cloudy,77.0939,3,Kolkata,Salt Lake City,8.79
+1.52,96,3,Foggy,77.057,4,Kolkata,Salt Lake City,8.61
+2.0,556,1,Cloudy,77.1492,5,Bangalore,Phoenix Marketcity,9.81
+1.72,435,2,Stormy,77.1387,5,Bangalore,Marine Drive,8.8
+5.86,671,2,Clear,77.2238,5,Bangalore,MG Road,8.29
+1.13,698,3,Stormy,77.1396,1,Kolkata,Marine Drive,8.99
+6.88,949,2,Clear,77.0456,5,New Delhi,MG Road,7.94
+7.23,926,2,Cloudy,77.1357,1,Kolkata,MG Road,8.09
+9.27,175,1,Clear,77.2756,4,Bangalore,MG Road,7.23
+3.78,798,2,Cloudy,77.135,2,New Delhi,Park Street,9.35
+5.22,745,3,Clear,77.1779,3,Mumbai,Salt Lake City,8.26
+2.5,226,1,Cloudy,77.101,4,Kolkata,Salt Lake City,9.75
+9.44,754,1,Clear,77.1797,1,Bangalore,Brigade Road,7.57
+3.79,575,3,Foggy,77.2057,5,Kolkata,Brigade Road,7.6
+6.18,936,1,Stormy,77.0507,2,New Delhi,MG Road,7.72
+0.91,208,1,Clear,77.1367,5,Kolkata,Connaught Place,10.0
+5.94,334,3,Rainy,77.1229,2,Bangalore,Connaught Place,7.29
+3.84,940,3,Stormy,77.054,2,Mumbai,Indiranagar,7.85
+7.45,837,1,Stormy,77.2474,2,Mumbai,Salt Lake City,7.19
+4.71,268,2,Rainy,77.2635,2,Kolkata,MG Road,8.37
+7.97,691,1,Rainy,77.1264,4,Chennai,Brigade Road,7.15
+4.83,273,2,Foggy,77.2217,3,Bangalore,Phoenix Marketcity,8.02
+6.19,439,3,Rainy,77.0863,3,Kolkata,Phoenix Marketcity,7.11
+8.98,364,1,Foggy,77.1627,2,Bangalore,Marine Drive,6.68
+5.25,62,1,Stormy,77.1365,3,Kolkata,Indiranagar,7.81
+0.2,99,3,Rainy,77.2392,3,Bangalore,Park Street,9.44
+3.98,289,2,Rainy,77.0771,2,Bangalore,Cyber Hub,8.67
+5.39,962,2,Clear,77.2356,4,Bangalore,MG Road,8.74
+7.58,268,3,Clear,77.1732,5,Chennai,Phoenix Marketcity,6.92
+0.58,544,2,Rainy,77.094,3,Bangalore,MG Road,9.98
+7.85,291,2,Foggy,77.2628,5,Mumbai,Salt Lake City,6.52
+6.8,305,3,Stormy,77.1544,1,Chennai,MG Road,6.64
+7.65,561,1,Clear,77.1689,3,Bangalore,Connaught Place,8.05
+2.28,590,1,Foggy,77.2785,1,Chennai,MG Road,9.51
+2.13,465,2,Rainy,77.1101,1,Kolkata,Phoenix Marketcity,9.54
+7.18,266,3,Cloudy,77.0445,2,Bangalore,Cyber Hub,7.28
+4.96,890,3,Clear,77.1735,3,Mumbai,Indiranagar,8.39
+3.57,164,1,Rainy,77.2896,1,Kolkata,DLF Mall,9.1
+9.43,665,3,Foggy,77.2597,4,Bangalore,Indiranagar,5.56
+2.79,352,1,Cloudy,77.2243,1,Mumbai,DLF Mall,9.95
+7.03,992,1,Clear,77.1887,1,Mumbai,MG Road,8.59
+5.99,499,1,Foggy,77.2097,2,Mumbai,Connaught Place,7.9
+9.82,307,3,Rainy,77.2728,1,Mumbai,Indiranagar,5.83
+0.67,94,1,Rainy,77.1639,3,New Delhi,Salt Lake City,10.0
+1.58,511,2,Foggy,77.2139,2,Bangalore,Connaught Place,9.47
+6.82,956,2,Stormy,77.0947,5,Mumbai,Phoenix Marketcity,6.86
+5.91,989,3,Clear,77.2503,2,Bangalore,Brigade Road,8.13
+9.57,168,3,Stormy,77.0902,5,Chennai,Park Street,5.01
+7.25,820,1,Cloudy,77.1983,3,Mumbai,Cyber Hub,8.06
+1.58,655,2,Stormy,77.2881,1,New Delhi,Indiranagar,9.4
+5.96,976,2,Rainy,77.0012,5,Bangalore,Connaught Place,7.61
+6.4,537,2,Clear,77.0005,4,New Delhi,Connaught Place,8.25
+6.5,550,2,Rainy,77.1173,3,Mumbai,Salt Lake City,7.61
+4.84,657,1,Clear,77.1765,4,Bangalore,Park Street,9.1
+1.33,502,3,Rainy,77.1122,4,Bangalore,Brigade Road,8.97
+3.17,708,2,Rainy,77.1005,1,Kolkata,Indiranagar,9.17
+4.4,200,1,Foggy,77.2684,1,Kolkata,Marine Drive,8.58
+3.94,323,2,Stormy,77.1503,2,New Delhi,Park Street,8.29
+3.5,926,2,Rainy,77.1323,2,Kolkata,Indiranagar,8.99
+2.04,456,1,Cloudy,77.0414,5,Chennai,Park Street,9.78
+6.19,807,1,Clear,77.2925,1,Kolkata,Park Street,8.89
+7.34,288,3,Clear,77.0495,3,Chennai,MG Road,7.32
+7.86,537,2,Foggy,77.2972,3,Chennai,Park Street,6.86
+3.44,491,1,Foggy,77.2356,5,Chennai,Connaught Place,8.52
+8.38,954,3,Foggy,77.0032,2,Kolkata,Phoenix Marketcity,6.24
+0.53,397,3,Cloudy,77.1283,5,Kolkata,Marine Drive,9.57
+6.83,520,1,Clear,77.2968,2,Chennai,Phoenix Marketcity,8.47
+3.5,194,1,Rainy,77.2653,1,Chennai,Marine Drive,9.14
+3.95,619,3,Foggy,77.2667,5,Mumbai,DLF Mall,7.54
+6.51,270,1,Cloudy,77.2912,5,Chennai,Indiranagar,7.95
+7.77,337,1,Stormy,77.1269,4,Chennai,Salt Lake City,6.76
+8.47,505,1,Rainy,77.2038,1,Mumbai,Phoenix Marketcity,7.21
+1.53,793,3,Cloudy,77.1445,1,Bangalore,DLF Mall,9.75
+1.09,309,3,Rainy,77.0091,2,Kolkata,Phoenix Marketcity,9.23
+2.79,978,1,Cloudy,77.0498,3,New Delhi,Cyber Hub,9.88
+1.17,869,3,Rainy,77.0247,3,Kolkata,DLF Mall,9.21
+3.39,870,1,Cloudy,77.1235,1,Chennai,MG Road,9.82
+8.28,308,3,Cloudy,77.1203,1,Mumbai,MG Road,6.95
+7.28,302,1,Stormy,77.0363,5,Bangalore,Cyber Hub,6.75
+5.2,589,2,Rainy,77.0944,2,Mumbai,Cyber Hub,8.24
+2.05,824,1,Clear,77.062,3,Kolkata,Brigade Road,10.0
+8.69,286,2,Stormy,77.0416,3,Chennai,Marine Drive,6.28
+6.6,413,1,Clear,77.2385,5,New Delhi,DLF Mall,8.14
+1.99,157,3,Foggy,77.2666,1,New Delhi,Phoenix Marketcity,8.74
+3.67,228,3,Stormy,77.1263,2,Bangalore,Park Street,7.78
+0.78,442,1,Rainy,77.0571,1,New Delhi,Cyber Hub,10.0
+1.93,313,1,Clear,77.0742,2,Mumbai,Brigade Road,10.0
+5.34,383,1,Rainy,77.1231,3,Bangalore,Park Street,8.24
+7.56,318,2,Foggy,77.0198,3,Chennai,Park Street,6.94
+1.13,720,3,Clear,77.1084,5,New Delhi,Park Street,9.59
+1.12,694,2,Stormy,77.1635,1,Kolkata,DLF Mall,9.59
+1.25,183,1,Cloudy,77.0368,3,Chennai,Connaught Place,10.0
+5.55,447,2,Clear,77.2184,3,Chennai,Phoenix Marketcity,8.67
+5.32,217,1,Foggy,77.2707,2,Bangalore,Park Street,8.12
+0.55,338,1,Stormy,77.2672,4,Mumbai,Marine Drive,9.65
+1.67,572,2,Rainy,77.15,3,New Delhi,Marine Drive,9.55
+6.09,985,1,Stormy,77.1587,4,Chennai,DLF Mall,7.56
+7.49,486,2,Cloudy,77.2766,2,New Delhi,Connaught Place,7.8
+4.94,989,2,Foggy,77.2502,2,Mumbai,Salt Lake City,8.22
+4.57,600,2,Clear,77.1938,1,New Delhi,Phoenix Marketcity,9.29
+8.06,129,1,Stormy,77.1034,1,New Delhi,DLF Mall,6.9
+6.44,857,3,Foggy,77.1591,3,Mumbai,Phoenix Marketcity,6.9
+6.91,715,3,Clear,77.1428,5,Mumbai,MG Road,7.28
+3.24,65,3,Stormy,77.1971,2,Kolkata,DLF Mall,7.92
+2.65,257,2,Rainy,77.2331,3,Kolkata,Salt Lake City,9.09
+1.86,830,3,Rainy,77.0289,2,Chennai,Brigade Road,9.02
+5.48,554,3,Clear,77.2256,2,Kolkata,Phoenix Marketcity,8.22
+1.75,969,2,Clear,77.1613,4,New Delhi,Brigade Road,10.0
+5.75,400,3,Clear,77.1306,1,Mumbai,Phoenix Marketcity,8.18
+8.93,434,1,Stormy,77.1931,3,Chennai,Cyber Hub,6.41
+7.29,296,3,Clear,77.2293,5,Chennai,Marine Drive,7.04
+0.34,708,1,Rainy,77.2834,3,Chennai,DLF Mall,10.0
+1.66,824,1,Clear,77.0443,4,Chennai,Park Street,10.0
+0.82,408,3,Stormy,77.0658,5,Bangalore,Salt Lake City,8.55
+3.99,528,2,Rainy,77.2304,1,Kolkata,DLF Mall,8.81
+6.78,74,3,Foggy,77.0971,3,Kolkata,Park Street,6.6
+5.52,528,1,Rainy,77.2914,4,Bangalore,DLF Mall,8.1
+6.33,945,1,Rainy,77.2691,1,New Delhi,Marine Drive,8.16
+0.73,279,3,Clear,77.1584,2,Chennai,Brigade Road,10.0
+0.45,187,1,Rainy,77.2944,5,Chennai,Brigade Road,9.86
+3.71,804,1,Cloudy,77.1117,1,Chennai,Marine Drive,9.68
+9.02,74,1,Cloudy,77.055,5,Mumbai,DLF Mall,6.91
+6.44,397,1,Rainy,77.2916,2,Mumbai,Cyber Hub,7.9
+7.64,291,2,Clear,77.1167,3,Chennai,Phoenix Marketcity,7.8
+8.72,440,3,Foggy,77.2111,3,Bangalore,Indiranagar,5.9
+0.11,319,2,Rainy,77.0999,1,Bangalore,Salt Lake City,10.0
+5.4,520,3,Foggy,77.2069,4,Mumbai,Indiranagar,7.14
+5.07,178,2,Cloudy,77.0805,4,Kolkata,MG Road,8.51
+4.7,73,2,Clear,77.0896,2,Mumbai,Connaught Place,9.03
+1.19,983,1,Foggy,77.0146,4,Bangalore,Marine Drive,9.72
+7.39,967,2,Stormy,77.0924,2,Chennai,Park Street,7.04
+7.03,426,3,Cloudy,77.1351,1,Mumbai,Brigade Road,7.47
+1.83,563,2,Stormy,77.2801,2,Kolkata,Park Street,9.18
+8.88,608,1,Cloudy,77.1262,1,Chennai,Salt Lake City,7.57
+5.35,979,1,Rainy,77.2258,1,New Delhi,Indiranagar,8.56
+3.34,190,1,Foggy,77.1323,1,Bangalore,Marine Drive,9.0
+7.37,167,1,Rainy,77.0895,5,Bangalore,Salt Lake City,7.09
+9.48,400,3,Clear,77.0319,4,Chennai,Brigade Road,6.39
+2.1,222,1,Stormy,77.0746,5,Mumbai,DLF Mall,8.8
+3.88,504,1,Rainy,77.2614,1,Chennai,Brigade Road,9.05
+8.84,230,3,Stormy,77.2271,3,Kolkata,Connaught Place,5.61
+2.95,90,1,Clear,77.001,1,New Delhi,Cyber Hub,10.0
+0.75,788,1,Foggy,77.0739,5,Bangalore,Marine Drive,9.66
+1.8,912,1,Stormy,77.2617,2,New Delhi,Park Street,9.46
+8.78,736,3,Cloudy,77.2062,4,New Delhi,Indiranagar,6.54
+9.75,495,3,Foggy,77.1543,4,Mumbai,Marine Drive,5.4
+3.07,435,1,Foggy,77.2065,5,Chennai,Phoenix Marketcity,8.66
+6.75,876,2,Clear,77.2169,4,Mumbai,Brigade Road,8.18
+1.97,670,1,Clear,77.1039,3,Mumbai,Salt Lake City,10.0
+9.13,122,2,Foggy,77.1195,2,Bangalore,Marine Drive,6.37
+2.49,781,2,Cloudy,77.2767,2,Mumbai,Phoenix Marketcity,9.86
+9.36,666,1,Stormy,77.0463,2,New Delhi,Park Street,6.39
+1.29,154,2,Rainy,77.0605,4,Mumbai,MG Road,9.51
+9.09,173,1,Stormy,77.1219,2,New Delhi,Park Street,6.4
+5.25,254,1,Rainy,77.2257,3,New Delhi,Connaught Place,8.25
+8.72,330,2,Stormy,77.2346,2,Mumbai,MG Road,6.38
+2.34,406,2,Rainy,77.1712,4,New Delhi,Park Street,9.15
+2.13,92,3,Rainy,77.0846,5,Bangalore,MG Road,8.37
+0.35,963,3,Clear,77.0091,5,Mumbai,Park Street,9.95
+7.21,950,1,Clear,77.0183,5,Bangalore,Marine Drive,8.01
+3.33,491,3,Stormy,77.2978,4,Bangalore,Cyber Hub,7.77
+3.74,670,3,Clear,77.0223,1,Bangalore,Marine Drive,9.04
+3.34,310,2,Rainy,77.1484,2,Chennai,Indiranagar,8.93
+4.39,525,1,Stormy,77.2863,2,Kolkata,Brigade Road,8.35
+3.81,891,1,Foggy,77.187,5,Kolkata,DLF Mall,8.45
+4.21,55,1,Clear,77.0588,3,New Delhi,Brigade Road,9.33
+0.74,711,3,Clear,77.1323,2,Chennai,Salt Lake City,10.0
+5.09,930,3,Rainy,77.136,5,Bangalore,Connaught Place,7.35
+8.48,885,1,Stormy,77.0953,1,Kolkata,Salt Lake City,6.88
+9.46,665,1,Foggy,77.1734,4,Kolkata,Phoenix Marketcity,6.35
+3.84,995,1,Cloudy,77.1744,2,Kolkata,Cyber Hub,9.56
+6.58,698,2,Clear,77.1898,1,Kolkata,DLF Mall,8.51
+8.04,277,3,Cloudy,77.0679,3,Kolkata,MG Road,6.84
+7.3,741,2,Clear,77.0002,4,Bangalore,Salt Lake City,7.93
+8.97,493,1,Stormy,77.0326,3,Mumbai,Park Street,6.41
+7.53,540,1,Foggy,77.0049,4,New Delhi,DLF Mall,7.1
+1.04,782,2,Foggy,77.0057,1,Mumbai,Indiranagar,9.84
+9.77,953,3,Rainy,77.2728,5,Chennai,Park Street,5.48
+3.68,365,1,Stormy,77.0254,1,New Delhi,DLF Mall,8.7
+1.42,678,3,Foggy,77.1351,1,Mumbai,Salt Lake City,9.07
+5.22,370,1,Cloudy,77.0632,2,Kolkata,Cyber Hub,8.89
+8.0,798,1,Rainy,77.137,3,New Delhi,Phoenix Marketcity,7.26
+9.36,67,2,Foggy,77.2553,4,Kolkata,Marine Drive,6.07
+4.02,823,2,Rainy,77.1527,1,Kolkata,Phoenix Marketcity,8.86
+8.41,201,1,Foggy,77.01,1,Chennai,Park Street,6.98
+1.04,367,2,Rainy,77.2552,1,Kolkata,Connaught Place,9.96
+5.84,208,1,Rainy,77.2319,2,Kolkata,Indiranagar,8.11
+9.35,733,1,Stormy,77.0112,4,New Delhi,Cyber Hub,6.21
+9.37,621,3,Rainy,77.0078,5,New Delhi,Connaught Place,5.58
+5.67,165,2,Clear,77.1591,3,New Delhi,Phoenix Marketcity,8.56
+9.87,883,2,Clear,77.1235,2,New Delhi,Park Street,7.13
+1.51,438,3,Foggy,77.286,4,Mumbai,Marine Drive,8.68
+4.78,877,3,Foggy,77.0681,1,Chennai,Indiranagar,7.76
+7.72,995,3,Foggy,77.2542,2,Mumbai,DLF Mall,6.51
+8.31,607,1,Foggy,77.2548,2,Bangalore,MG Road,7.0
+5.97,339,1,Rainy,77.2069,3,Kolkata,Connaught Place,7.98
+6.67,659,2,Clear,77.0421,4,Kolkata,Marine Drive,8.16
+9.0,193,1,Rainy,77.1891,4,Mumbai,Brigade Road,6.64
+9.73,318,3,Clear,77.1193,2,New Delhi,Indiranagar,6.47
+3.91,731,3,Clear,77.0019,4,New Delhi,Connaught Place,8.68
+6.13,999,2,Foggy,77.0655,1,Bangalore,MG Road,7.85
+8.34,268,2,Clear,77.2858,4,Kolkata,MG Road,7.42
+9.63,878,1,Cloudy,77.1303,5,Chennai,Connaught Place,6.82
+7.83,933,1,Rainy,77.1311,4,New Delhi,Brigade Road,7.25
+0.24,387,1,Cloudy,77.1731,3,Kolkata,Brigade Road,10.0
+0.93,447,3,Rainy,77.2722,1,Chennai,Park Street,9.42
+5.58,229,3,Foggy,77.0863,5,Kolkata,MG Road,6.81
+7.81,898,1,Rainy,77.107,2,Mumbai,MG Road,7.46
+2.63,794,3,Foggy,77.1067,5,Chennai,Indiranagar,8.11
+0.4,175,2,Cloudy,77.1724,4,New Delhi,MG Road,10.0
+6.86,661,3,Rainy,77.0766,3,Kolkata,Brigade Road,6.89
+3.33,461,3,Rainy,77.0727,4,Bangalore,Connaught Place,8.16
+8.67,952,3,Clear,77.0958,4,Mumbai,Phoenix Marketcity,6.82
+8.63,483,2,Foggy,77.2851,3,Mumbai,DLF Mall,6.54
+1.85,557,3,Clear,77.1928,1,Mumbai,Park Street,9.77
+3.02,839,2,Foggy,77.2074,3,Kolkata,Phoenix Marketcity,8.86
+8.57,697,2,Clear,77.1197,2,Mumbai,DLF Mall,7.61
+2.69,774,1,Rainy,77.0636,3,Mumbai,Park Street,9.38
+9.82,217,2,Foggy,77.0831,3,Kolkata,Marine Drive,6.02
+3.3,83,1,Foggy,77.0201,4,New Delhi,Indiranagar,8.7
+7.76,72,2,Rainy,77.1932,2,Kolkata,MG Road,7.11
+7.22,802,2,Rainy,77.2439,2,Chennai,Brigade Road,7.47
+8.85,764,1,Cloudy,77.221,3,New Delhi,Brigade Road,7.41
+4.7,161,2,Rainy,77.0642,4,Kolkata,DLF Mall,8.15
+8.6,54,1,Stormy,77.0084,2,Chennai,Park Street,6.57
+8.63,172,3,Cloudy,77.2625,2,Mumbai,Connaught Place,6.68
+4.57,105,1,Clear,77.2406,2,Kolkata,MG Road,9.29
+8.08,594,1,Rainy,77.0344,5,Bangalore,Salt Lake City,6.89
+0.97,938,3,Stormy,77.2417,1,Bangalore,Salt Lake City,9.1
+1.61,857,2,Rainy,77.0172,2,New Delhi,Marine Drive,9.73
+5.19,266,1,Rainy,77.1687,2,Kolkata,Brigade Road,8.38
+1.6,669,2,Stormy,77.1051,5,Mumbai,Park Street,8.89
+0.86,734,1,Rainy,77.0003,4,Chennai,Phoenix Marketcity,10.0
+7.31,822,2,Foggy,77.2348,1,Bangalore,MG Road,7.34
+2.8,594,3,Cloudy,77.0247,2,Mumbai,MG Road,9.1
+9.71,229,2,Stormy,77.2525,3,Bangalore,DLF Mall,5.86
+9.34,345,1,Foggy,77.2416,1,Mumbai,Brigade Road,6.63
+4.13,173,2,Stormy,77.0554,5,Mumbai,Connaught Place,7.78
+4.88,737,1,Clear,77.0937,4,Bangalore,Brigade Road,9.1
+0.37,205,2,Clear,77.0564,1,Kolkata,Brigade Road,10.0
+1.56,828,1,Cloudy,77.2533,2,Bangalore,Cyber Hub,10.0
+1.51,913,2,Rainy,77.1499,3,New Delhi,Park Street,9.68
+3.71,959,3,Clear,77.0587,3,Chennai,Park Street,8.91
+3.39,875,3,Stormy,77.2853,1,Bangalore,Marine Drive,8.12
+8.6,201,1,Foggy,77.1484,4,Bangalore,Salt Lake City,6.6
+3.61,789,3,Clear,77.2543,1,New Delhi,DLF Mall,9.11
+0.86,643,1,Rainy,77.0418,2,Kolkata,Indiranagar,10.0
+7.35,359,3,Clear,77.0252,2,Kolkata,Cyber Hub,7.43
+9.37,177,1,Stormy,77.0378,4,Bangalore,Connaught Place,6.09
+7.87,966,1,Foggy,77.0759,5,Chennai,Connaught Place,6.85
+7.31,997,1,Rainy,77.0877,2,Kolkata,Salt Lake City,7.68
+8.69,509,1,Clear,77.2635,3,Chennai,Phoenix Marketcity,7.63
+0.39,418,3,Rainy,77.1038,4,Kolkata,Cyber Hub,9.33
+7.5,186,2,Stormy,77.2618,3,Mumbai,Connaught Place,6.74
+1.96,962,2,Stormy,77.0895,2,Chennai,Connaught Place,9.21
+1.77,353,1,Cloudy,77.1897,5,Bangalore,Salt Lake City,9.86
+5.12,150,3,Cloudy,77.2181,4,Kolkata,Park Street,7.88
+6.18,175,3,Clear,77.256,1,Chennai,Cyber Hub,7.96
+2.22,496,1,Cloudy,77.1047,2,New Delhi,Connaught Place,10.0
+2.88,342,1,Foggy,77.209,2,Chennai,Cyber Hub,9.12
+7.75,360,1,Rainy,77.0715,4,Mumbai,Cyber Hub,7.17
+7.54,557,1,Clear,77.1329,4,Bangalore,Marine Drive,8.0
+3.91,349,3,Rainy,77.0553,3,New Delhi,Connaught Place,8.01
+6.6,969,1,Clear,77.1202,2,Bangalore,Phoenix Marketcity,8.65
+6.11,493,3,Stormy,77.2797,2,New Delhi,Phoenix Marketcity,6.85
+4.58,213,3,Cloudy,77.2281,1,New Delhi,MG Road,8.41
+0.87,549,3,Clear,77.1021,4,Chennai,Marine Drive,9.86
+9.8,470,1,Cloudy,77.0694,1,Mumbai,Indiranagar,7.17
+3.05,108,2,Clear,77.0333,3,Mumbai,Cyber Hub,9.6
+2.58,476,2,Rainy,77.248,5,New Delhi,DLF Mall,8.86
+0.5,805,1,Rainy,77.0568,4,Mumbai,Salt Lake City,10.0
+7.78,52,1,Foggy,77.2826,5,Kolkata,Phoenix Marketcity,6.7
+2.78,259,1,Cloudy,77.2043,1,Bangalore,Phoenix Marketcity,9.94
+1.46,200,1,Cloudy,77.0178,4,Chennai,DLF Mall,10.0
+5.44,653,3,Rainy,77.0878,1,Bangalore,MG Road,7.65
+3.98,239,3,Stormy,77.1162,2,New Delhi,Indiranagar,7.66
+5.38,635,3,Clear,77.0674,4,Kolkata,DLF Mall,8.07
+4.36,552,2,Stormy,77.2497,1,Kolkata,Salt Lake City,8.27
+6.74,245,3,Clear,77.0421,5,Mumbai,MG Road,7.25
+8.8,820,1,Cloudy,77.0458,2,New Delhi,Indiranagar,7.54
+7.59,633,3,Foggy,77.2821,3,Mumbai,Park Street,6.39
+2.28,318,1,Clear,77.1076,1,New Delhi,Phoenix Marketcity,10.0
+9.7,254,1,Rainy,77.0348,2,Kolkata,MG Road,6.57
+1.28,449,3,Cloudy,77.1195,5,Chennai,Park Street,9.28
+1.04,487,2,Stormy,77.2245,1,Chennai,Salt Lake City,9.58
+3.62,914,2,Foggy,77.1977,2,New Delhi,DLF Mall,8.73
+3.29,830,1,Clear,77.1666,3,Kolkata,MG Road,9.85
+7.53,339,3,Stormy,77.1923,2,New Delhi,Marine Drive,6.26
+7.0,134,1,Clear,77.2772,3,New Delhi,Park Street,8.23
+5.58,919,3,Foggy,77.0095,5,New Delhi,Indiranagar,6.95
+7.02,91,1,Stormy,77.051,3,Chennai,Indiranagar,7.11
+0.81,353,2,Stormy,77.1098,1,Mumbai,Park Street,9.65
+0.88,304,1,Foggy,77.13,1,New Delhi,DLF Mall,10.0
+5.5,879,3,Clear,77.1043,2,Chennai,Park Street,8.28
+5.72,139,1,Rainy,77.1482,4,Mumbai,Phoenix Marketcity,7.94
+4.51,782,1,Clear,77.2913,2,New Delhi,Indiranagar,9.45
+2.13,700,2,Cloudy,77.0241,4,Kolkata,Salt Lake City,9.79
+0.49,664,2,Rainy,77.2284,2,New Delhi,Brigade Road,10.0
+5.24,76,1,Rainy,77.1858,4,Kolkata,Park Street,8.12
+4.38,851,2,Stormy,77.0522,1,Chennai,Connaught Place,8.32
+8.27,539,3,Cloudy,77.2188,2,New Delhi,MG Road,6.9
+5.93,277,1,Cloudy,77.3,1,Mumbai,Brigade Road,8.68
+9.45,261,3,Clear,77.2621,2,Bangalore,Phoenix Marketcity,6.57
+8.72,670,2,Clear,77.0435,1,Kolkata,MG Road,7.65
+0.24,201,3,Cloudy,77.1857,2,New Delhi,Phoenix Marketcity,10.0
+5.89,298,3,Stormy,77.2247,2,Chennai,Phoenix Marketcity,6.9
+1.98,801,3,Cloudy,77.0654,5,New Delhi,Marine Drive,9.07
+3.05,802,1,Foggy,77.2572,5,Mumbai,Marine Drive,8.74
+6.63,141,2,Stormy,77.1605,3,Kolkata,Marine Drive,7.08
+8.28,430,1,Clear,77.2419,5,Mumbai,Salt Lake City,7.47
+9.59,561,3,Stormy,77.0519,1,Kolkata,DLF Mall,5.58
+7.5,729,3,Foggy,77.1903,3,Bangalore,Salt Lake City,6.45
+8.82,551,3,Stormy,77.1996,3,Mumbai,Connaught Place,5.68
+2.08,60,2,Stormy,77.1347,5,New Delhi,Indiranagar,8.58
+4.45,478,2,Rainy,77.2917,1,Chennai,Park Street,8.62
+9.05,441,2,Cloudy,77.1844,3,New Delhi,Connaught Place,7.07
+2.65,816,3,Stormy,77.2002,3,New Delhi,Connaught Place,8.2
+4.77,811,1,Stormy,77.2032,1,New Delhi,Indiranagar,8.35
+9.85,263,3,Clear,77.1541,5,Mumbai,Salt Lake City,6.01
+1.26,558,1,Clear,77.209,4,New Delhi,Salt Lake City,10.0
+5.84,413,2,Cloudy,77.1319,3,Mumbai,Connaught Place,8.35
+5.52,708,2,Clear,77.1027,5,Bangalore,Brigade Road,8.43
+2.78,325,3,Stormy,77.2066,5,Bangalore,Connaught Place,7.75
+7.08,146,1,Foggy,77.2749,4,Chennai,Marine Drive,7.2
+7.13,712,2,Cloudy,77.1694,3,New Delhi,MG Road,7.89
+8.01,145,2,Clear,77.2967,1,New Delhi,Brigade Road,7.82
+0.17,439,3,Stormy,77.0153,4,Mumbai,Park Street,9.02
+2.07,531,1,Foggy,77.1995,3,Bangalore,Indiranagar,9.38
+1.56,938,3,Clear,77.0946,4,Bangalore,Park Street,9.66
+2.96,354,3,Clear,77.1871,5,Mumbai,Indiranagar,8.79
+8.43,671,2,Rainy,77.1585,2,Bangalore,Park Street,6.96
+4.82,135,1,Rainy,77.079,4,Chennai,Salt Lake City,8.3
+0.9,126,2,Clear,77.2383,3,Kolkata,MG Road,10.0
+7.82,438,3,Stormy,77.2508,1,Mumbai,Marine Drive,6.26
+2.69,648,2,Foggy,77.0042,1,Bangalore,Brigade Road,9.15
+9.61,78,3,Cloudy,77.0862,2,Mumbai,Connaught Place,6.27
+5.46,156,2,Cloudy,77.1628,5,Bangalore,MG Road,8.15
+2.81,138,3,Cloudy,77.0461,5,New Delhi,Salt Lake City,8.6
+6.67,911,2,Rainy,77.0414,5,Kolkata,Marine Drive,7.31
+5.43,559,1,Cloudy,77.0961,1,Chennai,Park Street,8.94
+4.03,688,3,Stormy,77.0074,5,Mumbai,Brigade Road,7.33
+6.66,232,3,Clear,77.1366,2,Bangalore,Cyber Hub,7.68
+4.62,358,2,Stormy,77.2828,1,New Delhi,Brigade Road,8.12
+8.98,155,3,Cloudy,77.1768,5,Kolkata,Park Street,6.14
+4.94,915,1,Clear,77.0158,1,Chennai,Indiranagar,9.41
+0.39,398,1,Cloudy,77.0103,3,Bangalore,DLF Mall,10.0
+3.93,156,2,Cloudy,77.2342,2,Bangalore,Brigade Road,9.16
+9.93,421,1,Stormy,77.2956,2,New Delhi,Marine Drive,6.11
+5.97,810,3,Foggy,77.0203,2,Mumbai,Phoenix Marketcity,7.17
+4.04,709,3,Foggy,77.0691,3,New Delhi,Park Street,7.83
+3.87,928,2,Clear,77.1319,1,New Delhi,Brigade Road,9.64
+7.51,198,1,Cloudy,77.2563,2,New Delhi,Salt Lake City,7.94
+1.23,510,1,Clear,77.1451,5,Chennai,Phoenix Marketcity,10.0
+6.68,349,1,Clear,77.1094,4,Chennai,MG Road,8.3
+5.74,677,3,Foggy,77.0511,5,New Delhi,Indiranagar,6.84
+5.3,52,1,Foggy,77.2316,3,New Delhi,Connaught Place,7.99
+7.73,825,2,Stormy,77.0243,5,Mumbai,MG Road,6.47
+4.68,51,1,Stormy,77.0864,4,Chennai,Indiranagar,7.94
+0.82,627,3,Cloudy,77.2514,1,Chennai,DLF Mall,10.0
+0.6,235,3,Clear,77.1503,4,Bangalore,Cyber Hub,9.91
+9.07,448,1,Clear,77.2739,4,New Delhi,Salt Lake City,7.36
+0.71,156,2,Rainy,77.2741,4,Mumbai,Brigade Road,9.75
+2.82,657,2,Stormy,77.1175,4,New Delhi,DLF Mall,8.6
+8.38,596,1,Cloudy,77.1668,2,Kolkata,DLF Mall,7.67
+5.38,461,3,Clear,77.1069,3,Bangalore,Indiranagar,8.14
+1.74,573,1,Stormy,77.2272,5,Kolkata,Indiranagar,9.02
+2.32,180,3,Clear,77.03,1,Kolkata,Marine Drive,9.51
+4.22,500,1,Clear,77.1458,3,Chennai,MG Road,9.41
+2.65,897,3,Clear,77.2358,3,Chennai,Cyber Hub,9.32
+9.58,484,2,Foggy,77.2485,1,New Delhi,Park Street,6.36
+0.83,487,2,Clear,77.0343,4,Mumbai,Salt Lake City,10.0
+4.0,550,3,Rainy,77.1673,3,New Delhi,DLF Mall,8.01
+6.88,258,3,Stormy,77.0955,3,Bangalore,Indiranagar,6.4
+1.23,147,3,Clear,77.2057,3,New Delhi,Indiranagar,9.74
+5.71,209,2,Clear,77.2699,2,Chennai,Brigade Road,8.66
+4.63,152,2,Foggy,77.0688,1,New Delhi,DLF Mall,8.28
+4.19,475,1,Clear,77.1713,5,Bangalore,Phoenix Marketcity,9.12
+4.69,714,2,Foggy,77.1852,5,New Delhi,Brigade Road,7.87
+4.9,954,1,Foggy,77.1924,5,Kolkata,Marine Drive,8.03
+9.18,903,1,Cloudy,77.1939,2,New Delhi,MG Road,7.41
+1.02,337,3,Stormy,77.0718,2,New Delhi,Cyber Hub,8.86
+6.86,319,2,Foggy,77.0254,4,Kolkata,Salt Lake City,7.12
+5.23,489,2,Foggy,77.0751,2,New Delhi,Park Street,8.01
+7.93,676,1,Foggy,77.0635,5,Kolkata,Park Street,6.76
+4.76,441,1,Clear,77.139,2,Bangalore,Phoenix Marketcity,9.28
+2.23,424,1,Stormy,77.2851,2,Bangalore,Cyber Hub,9.19
+4.26,349,2,Stormy,77.1635,1,Bangalore,Connaught Place,8.27
+0.63,733,2,Clear,77.1043,2,Bangalore,Park Street,10.0
+3.67,134,3,Foggy,77.0449,1,New Delhi,Phoenix Marketcity,8.06
+5.68,95,3,Clear,77.124,1,Chennai,Salt Lake City,8.15
+3.99,628,3,Clear,77.0018,5,Bangalore,Marine Drive,8.43
+1.36,269,2,Cloudy,77.1892,5,Chennai,Salt Lake City,9.81
+1.09,525,1,Foggy,77.0255,1,New Delhi,Marine Drive,9.97
+7.3,503,2,Clear,77.0661,5,Mumbai,Marine Drive,7.68
+1.95,202,1,Stormy,77.2659,1,New Delhi,Indiranagar,9.36
+2.97,914,2,Clear,77.2096,2,Mumbai,Connaught Place,9.89
+5.08,774,1,Clear,77.0531,5,Chennai,Connaught Place,8.82
+8.55,270,3,Rainy,77.1707,3,Kolkata,Brigade Road,6.13
+9.29,510,1,Cloudy,77.1995,2,Mumbai,Marine Drive,7.29
+8.28,343,3,Foggy,77.2406,3,New Delhi,Phoenix Marketcity,6.06
+3.74,902,1,Cloudy,77.2788,5,Kolkata,Phoenix Marketcity,9.18
+3.13,585,1,Stormy,77.1873,1,Bangalore,Salt Lake City,8.96
+6.76,160,1,Rainy,77.1655,4,Bangalore,Indiranagar,7.53
+2.15,772,2,Rainy,77.1486,5,New Delhi,DLF Mall,9.09
+5.48,435,1,Cloudy,77.1495,2,Mumbai,DLF Mall,8.8
+2.23,269,2,Clear,77.1278,2,Kolkata,MG Road,10.0
+9.1,173,2,Foggy,77.0229,4,Chennai,Salt Lake City,6.19
+7.72,526,3,Foggy,77.0596,5,New Delhi,DLF Mall,6.02
+0.5,473,2,Foggy,77.0897,1,New Delhi,Marine Drive,9.99
+7.84,499,2,Stormy,77.1571,2,Bangalore,Park Street,6.76
+6.94,380,1,Cloudy,77.1235,4,Chennai,Indiranagar,8.0
+4.65,439,2,Cloudy,77.1981,5,Bangalore,Park Street,8.53
+8.57,90,1,Foggy,77.2029,4,Mumbai,MG Road,6.59
+6.36,59,1,Stormy,77.2695,1,Bangalore,MG Road,7.57
+8.43,625,3,Rainy,77.1252,3,Chennai,Indiranagar,6.25
+9.86,962,3,Foggy,77.1638,3,Mumbai,Connaught Place,5.55
+2.82,311,3,Foggy,77.2936,2,Chennai,Brigade Road,8.33
+7.46,335,1,Cloudy,77.2929,1,Kolkata,Marine Drive,8.08
+7.11,507,3,Foggy,77.1877,4,Kolkata,Park Street,6.46
+7.29,175,3,Rainy,77.1621,3,Kolkata,Marine Drive,6.62
+4.87,182,3,Stormy,77.1865,3,Mumbai,Brigade Road,7.19
+3.42,71,3,Cloudy,77.1387,5,Kolkata,Indiranagar,8.35
+8.66,347,1,Cloudy,77.1749,1,Bangalore,Phoenix Marketcity,7.61
+3.93,851,1,Clear,77.1419,4,Kolkata,DLF Mall,9.5
+5.71,504,1,Clear,77.1587,4,New Delhi,Park Street,8.72
+8.92,603,2,Cloudy,77.138,5,Chennai,Salt Lake City,6.85
+6.37,340,2,Rainy,77.0523,1,Kolkata,Cyber Hub,7.82
+3.46,613,2,Clear,77.0817,5,Mumbai,Salt Lake City,9.24
+8.49,60,2,Clear,77.2156,1,Kolkata,Salt Lake City,7.62
+5.37,143,2,Rainy,77.1405,5,New Delhi,Connaught Place,7.68
+3.0,291,3,Clear,77.1743,1,Chennai,Phoenix Marketcity,9.26
+1.03,80,1,Clear,77.0629,2,Mumbai,Salt Lake City,10.0
+5.44,832,1,Foggy,77.2883,2,Mumbai,DLF Mall,8.19
+1.6,957,1,Foggy,77.1638,5,Kolkata,Marine Drive,9.35
+9.85,281,3,Rainy,77.1876,2,New Delhi,Park Street,5.72
+7.21,102,1,Rainy,77.2821,1,Mumbai,MG Road,7.64
+2.29,792,2,Stormy,77.2024,1,Mumbai,Indiranagar,9.14
+5.09,756,3,Stormy,77.0286,5,Mumbai,Cyber Hub,6.92
+0.92,385,2,Stormy,77.0102,1,New Delhi,Connaught Place,9.61
+8.2,164,3,Foggy,77.061,2,Mumbai,MG Road,6.15
+7.93,788,3,Cloudy,77.2775,3,Bangalore,Park Street,6.99
+5.72,659,3,Foggy,77.2541,4,Kolkata,Salt Lake City,7.04
+3.02,986,3,Cloudy,77.2219,3,New Delhi,DLF Mall,8.99
+6.37,520,2,Stormy,77.1344,5,New Delhi,Indiranagar,6.96
+4.71,774,1,Rainy,77.2363,4,Kolkata,DLF Mall,8.47
+3.3,892,3,Foggy,77.2197,3,Mumbai,Brigade Road,8.16
+4.13,196,3,Foggy,77.2684,1,Chennai,Phoenix Marketcity,7.89
+4.62,555,2,Cloudy,77.1188,1,New Delhi,Park Street,9.06
+8.63,218,2,Clear,77.1102,4,Bangalore,Connaught Place,7.29
+8.7,434,2,Cloudy,77.1261,5,New Delhi,Connaught Place,6.91
+8.2,321,3,Cloudy,77.2702,5,Chennai,Phoenix Marketcity,6.48
+5.92,299,2,Cloudy,77.0525,3,Chennai,DLF Mall,8.29
+7.06,468,3,Stormy,77.0347,3,Kolkata,Phoenix Marketcity,6.37
+5.37,146,3,Stormy,77.006,2,Chennai,MG Road,7.08
+8.43,167,2,Cloudy,77.1677,3,Bangalore,Connaught Place,7.26
+2.4,416,3,Clear,77.2541,3,New Delhi,Brigade Road,9.32
+0.44,795,2,Clear,77.2949,3,Kolkata,DLF Mall,10.0
+7.84,574,2,Stormy,77.0772,5,Mumbai,Indiranagar,6.38
+4.74,628,3,Rainy,77.237,3,Kolkata,Cyber Hub,7.73
+4.32,967,1,Rainy,77.0008,2,Chennai,Park Street,8.87
+8.26,137,3,Cloudy,77.0785,2,Mumbai,Salt Lake City,6.82
+3.97,983,3,Stormy,77.0316,3,New Delhi,Brigade Road,7.71
+5.0,620,3,Clear,77.1088,5,New Delhi,MG Road,8.02
+7.19,850,3,Stormy,77.1257,4,Kolkata,Phoenix Marketcity,6.29
+6.17,995,1,Foggy,77.1107,5,Mumbai,Connaught Place,7.53
+5.91,246,1,Cloudy,77.118,5,Mumbai,Phoenix Marketcity,8.19
+5.3,527,1,Rainy,77.0216,4,Mumbai,Park Street,8.19
+6.7,64,2,Foggy,77.1345,2,Chennai,Cyber Hub,7.33
+7.57,492,1,Rainy,77.1102,3,Mumbai,DLF Mall,7.37
+3.22,387,1,Stormy,77.189,2,Bangalore,Salt Lake City,8.79
+3.97,773,2,Cloudy,77.1232,5,Mumbai,Marine Drive,8.87
+2.47,615,2,Rainy,77.1586,2,Kolkata,Connaught Place,9.34
+7.41,696,1,Foggy,77.0764,4,Mumbai,Park Street,7.18
+8.3,702,1,Clear,77.0343,2,Kolkata,MG Road,7.92
+3.24,772,1,Foggy,77.2925,3,Chennai,Salt Lake City,8.96
+7.9,51,2,Stormy,77.0555,4,New Delhi,Brigade Road,6.45
+0.61,305,2,Rainy,77.1411,2,New Delhi,MG Road,10.0
+1.31,739,3,Clear,77.171,4,New Delhi,Indiranagar,9.72
+4.96,846,3,Rainy,77.288,5,New Delhi,Marine Drive,7.39
+6.81,95,2,Clear,77.2712,2,Mumbai,Salt Lake City,8.2
+6.24,595,2,Foggy,77.1154,3,Kolkata,MG Road,7.52
+0.85,989,3,Foggy,77.2621,4,Kolkata,MG Road,9.06
+2.62,937,2,Clear,77.1137,2,Mumbai,Park Street,10.0
+9.08,633,2,Cloudy,77.1209,1,Mumbai,MG Road,7.29
+2.87,172,2,Rainy,77.0003,4,Chennai,Cyber Hub,8.89
+3.38,989,2,Clear,77.0975,3,Bangalore,Phoenix Marketcity,9.65
+7.63,521,3,Stormy,77.2494,2,Chennai,Indiranagar,6.25
+9.42,794,2,Stormy,77.1457,1,Kolkata,Salt Lake City,6.29
+2.69,350,1,Rainy,77.0296,3,Chennai,Brigade Road,9.29
+3.78,904,3,Foggy,77.0416,5,Kolkata,Park Street,7.67
+7.73,933,2,Cloudy,77.2966,3,Mumbai,Salt Lake City,7.69
+0.47,51,3,Foggy,77.2996,2,Bangalore,MG Road,9.22
+0.14,768,3,Rainy,77.251,5,Kolkata,Brigade Road,9.3
+9.1,687,3,Clear,77.0983,5,Bangalore,Salt Lake City,6.4
+1.72,468,1,Foggy,77.228,5,Chennai,DLF Mall,9.21
+8.26,283,3,Rainy,77.0028,2,New Delhi,Marine Drive,6.35
+3.04,123,3,Rainy,77.2443,4,Chennai,Connaught Place,8.21
+0.41,295,2,Rainy,77.293,4,Bangalore,Phoenix Marketcity,9.89
+2.69,866,1,Stormy,77.1227,1,Chennai,Phoenix Marketcity,9.2
+9.27,297,2,Clear,77.1695,5,New Delhi,MG Road,6.85
+8.16,725,1,Rainy,77.0218,4,Kolkata,Phoenix Marketcity,7.08
+9.82,533,2,Stormy,77.0371,1,Kolkata,Marine Drive,6.08
+6.41,199,2,Rainy,77.1495,2,Mumbai,Phoenix Marketcity,7.68
+3.41,238,2,Stormy,77.1883,4,Mumbai,Phoenix Marketcity,8.28
+7.47,356,1,Cloudy,77.1783,4,Chennai,Phoenix Marketcity,7.78
+0.15,943,2,Foggy,77.0683,3,Bangalore,Connaught Place,10.0
+5.46,136,1,Foggy,77.172,4,New Delhi,Salt Lake City,7.84
+2.56,846,2,Stormy,77.2525,2,Mumbai,Phoenix Marketcity,8.95
+9.23,444,3,Cloudy,77.1903,4,Mumbai,Connaught Place,6.3
+5.68,536,1,Cloudy,77.1698,3,Mumbai,Brigade Road,8.64
+6.46,603,2,Stormy,77.2426,5,Kolkata,Brigade Road,6.94
+4.24,529,1,Stormy,77.1276,2,Chennai,Cyber Hub,8.41
+0.26,994,3,Stormy,77.0147,4,Bangalore,Marine Drive,9.09
+2.73,365,2,Stormy,77.2534,3,Kolkata,Marine Drive,8.68
+2.22,447,2,Clear,77.0889,2,Kolkata,Phoenix Marketcity,10.0
+0.36,750,1,Clear,77.0963,4,Kolkata,DLF Mall,10.0
+7.78,529,2,Clear,77.2106,1,Chennai,Indiranagar,7.99
+3.68,69,3,Stormy,77.0543,2,Mumbai,Park Street,7.74
+6.27,543,1,Stormy,77.2438,2,Bangalore,Indiranagar,7.6
+3.51,619,1,Foggy,77.088,1,Chennai,Marine Drive,9.02
+9.05,174,1,Cloudy,77.093,2,Kolkata,Phoenix Marketcity,7.31
+4.48,493,3,Foggy,77.0643,5,Kolkata,Cyber Hub,7.31
+8.05,243,1,Clear,77.1451,3,Chennai,Cyber Hub,7.83
+9.43,551,1,Rainy,77.1109,5,Kolkata,DLF Mall,6.34
+8.42,505,3,Foggy,77.1962,4,Kolkata,Cyber Hub,5.93
+5.66,580,3,Stormy,77.2459,3,Kolkata,Brigade Road,6.95
+4.71,94,2,Foggy,77.067,2,Mumbai,Cyber Hub,8.13
+6.51,875,3,Foggy,77.0549,4,Kolkata,Cyber Hub,6.77
+7.39,675,2,Clear,77.2029,2,Kolkata,DLF Mall,8.08
+9.29,994,3,Clear,77.1088,4,Mumbai,Indiranagar,6.58
+9.89,755,2,Foggy,77.1832,5,New Delhi,MG Road,5.79
+0.42,699,1,Cloudy,77.1316,4,Chennai,Park Street,10.0
+3.98,173,1,Clear,77.0888,2,Bangalore,MG Road,9.54
+7.5,489,2,Rainy,77.0099,5,Mumbai,Connaught Place,6.9
+1.11,178,3,Foggy,77.1757,5,Chennai,Cyber Hub,8.59
+0.17,277,1,Clear,77.2124,3,Mumbai,Phoenix Marketcity,10.0
+9.04,154,2,Rainy,77.0169,1,Mumbai,Marine Drive,6.71
+3.4,356,3,Cloudy,77.1628,2,Bangalore,Cyber Hub,8.81
+2.63,612,1,Rainy,77.2823,3,Kolkata,Park Street,9.37
+3.65,947,3,Clear,77.1377,2,Mumbai,Indiranagar,9.03
+3.29,255,2,Stormy,77.1329,3,New Delhi,Marine Drive,8.43
+2.25,980,2,Rainy,77.1903,2,Mumbai,Cyber Hub,9.5
+4.69,678,3,Cloudy,77.2371,4,New Delhi,Phoenix Marketcity,8.16
+6.61,448,3,Clear,77.027,3,Bangalore,Connaught Place,7.65
+8.36,607,3,Foggy,77.0274,4,Mumbai,Brigade Road,5.98
+4.19,195,3,Clear,77.0569,1,Chennai,Park Street,8.76
+4.97,431,1,Cloudy,77.0602,3,Bangalore,Park Street,8.9
+0.79,871,3,Foggy,77.1269,2,Chennai,Salt Lake City,9.26
+8.37,897,1,Stormy,77.2778,5,Bangalore,Connaught Place,6.43
+2.73,101,3,Rainy,77.1135,4,Chennai,Phoenix Marketcity,8.33
+9.93,889,1,Rainy,77.2616,4,New Delhi,Phoenix Marketcity,6.41
+6.59,326,1,Clear,77.0438,5,Mumbai,Marine Drive,8.13
+7.14,147,3,Cloudy,77.2434,5,Bangalore,Marine Drive,6.87
+9.71,967,3,Foggy,77.1645,4,Chennai,Connaught Place,5.51
+9.56,977,2,Rainy,77.096,4,Chennai,Brigade Road,6.37
+8.9,618,3,Stormy,77.0832,4,New Delhi,Salt Lake City,5.56
+3.23,355,2,Stormy,77.2371,1,Kolkata,Phoenix Marketcity,8.68
+0.51,520,3,Stormy,77.2066,2,New Delhi,MG Road,9.1
+1.5,646,1,Clear,77.0985,4,Bangalore,Phoenix Marketcity,10.0
+0.89,228,2,Foggy,77.0602,3,Chennai,Phoenix Marketcity,9.59
+1.17,559,2,Clear,77.2379,1,Bangalore,DLF Mall,10.0
+2.28,108,2,Rainy,77.1878,4,Mumbai,Park Street,9.11
+4.35,838,2,Rainy,77.0932,5,Chennai,Salt Lake City,8.23
+3.7,674,3,Clear,77.2335,1,New Delhi,MG Road,9.05
+6.38,878,2,Cloudy,77.1235,4,Kolkata,Park Street,8.12
+5.55,551,2,Stormy,77.1804,5,New Delhi,Brigade Road,7.29
+7.32,217,3,Rainy,77.1994,2,Kolkata,Salt Lake City,6.72
+4.69,197,3,Rainy,77.1091,5,Mumbai,Brigade Road,7.36
+4.23,896,1,Foggy,77.1879,4,Mumbai,DLF Mall,8.49
+4.44,100,3,Rainy,77.2231,3,Mumbai,Salt Lake City,7.74
+1.62,125,2,Rainy,77.2295,4,Mumbai,Phoenix Marketcity,9.38
+5.92,821,2,Stormy,77.1099,2,Chennai,Indiranagar,7.6
+4.52,689,3,Foggy,77.0191,4,New Delhi,Indiranagar,7.53
+3.78,899,3,Cloudy,77.1966,5,Mumbai,Brigade Road,8.37
+8.43,953,1,Foggy,77.2756,5,Kolkata,Cyber Hub,6.62
+0.44,386,2,Foggy,77.2477,2,New Delhi,Park Street,9.9
+9.34,241,3,Cloudy,77.1947,5,Mumbai,Phoenix Marketcity,6.01
+6.25,829,3,Rainy,77.0928,5,Bangalore,Cyber Hub,6.87
+3.86,527,2,Clear,77.1866,5,Bangalore,MG Road,9.06
+9.92,952,1,Foggy,77.0579,5,New Delhi,Marine Drive,6.02
+7.79,487,1,Cloudy,77.2879,2,New Delhi,Cyber Hub,7.88
+5.77,476,1,Foggy,77.0968,5,Bangalore,Connaught Place,7.59
+2.58,192,3,Cloudy,77.1549,1,Chennai,Park Street,9.21
+9.95,869,2,Foggy,77.2356,2,Bangalore,Connaught Place,6.19
+5.66,986,2,Clear,77.1528,1,Bangalore,Connaught Place,8.93
+8.56,135,1,Clear,77.275,2,New Delhi,Phoenix Marketcity,7.7
+5.83,824,1,Cloudy,77.0514,3,Mumbai,Marine Drive,8.63
+2.14,933,2,Foggy,77.1217,3,New Delhi,Salt Lake City,9.23
+1.94,255,3,Clear,77.289,5,Bangalore,Marine Drive,9.18
+8.07,454,3,Clear,77.1422,2,Bangalore,Indiranagar,7.16
+6.02,127,3,Rainy,77.0521,5,Mumbai,Park Street,6.82
+9.42,103,2,Stormy,77.1952,1,Kolkata,Marine Drive,6.15
+9.25,60,2,Stormy,77.1207,2,Chennai,Phoenix Marketcity,6.11
+4.62,849,3,Clear,77.0946,5,New Delhi,Phoenix Marketcity,8.22
+8.88,386,3,Stormy,77.1976,2,Chennai,Marine Drive,5.73
+1.46,827,2,Cloudy,77.0795,1,New Delhi,Brigade Road,10.0
+6.55,275,1,Stormy,77.2741,5,Chennai,Indiranagar,7.04
+1.87,839,2,Clear,77.0931,5,Kolkata,Cyber Hub,9.92
+1.85,93,1,Foggy,77.0788,1,Kolkata,DLF Mall,9.58
+7.87,319,3,Rainy,77.09,5,Mumbai,Cyber Hub,6.12
+5.94,887,2,Clear,77.2472,1,Bangalore,Brigade Road,8.8
+4.95,740,3,Foggy,77.0408,2,Kolkata,Brigade Road,7.57
+2.2,368,2,Clear,77.0891,3,Bangalore,Cyber Hub,9.99
+0.79,340,2,Stormy,77.2798,1,Chennai,Connaught Place,9.65
+8.94,276,1,Clear,77.0261,2,New Delhi,Salt Lake City,7.58
+4.55,81,1,Cloudy,77.1526,4,New Delhi,MG Road,8.9
+2.02,598,2,Rainy,77.0243,2,Kolkata,MG Road,9.51
+1.97,363,3,Cloudy,77.2029,2,Kolkata,Brigade Road,9.38
+5.04,259,2,Cloudy,77.1493,1,New Delhi,Park Street,8.84
+7.75,442,2,Cloudy,77.0031,5,Bangalore,Salt Lake City,7.29
+4.41,643,3,Foggy,77.0415,1,Chennai,DLF Mall,7.86
+8.24,94,3,Stormy,77.2466,1,Bangalore,Park Street,6.02
+7.85,169,3,Stormy,77.2718,5,Mumbai,Marine Drive,5.69
+4.69,155,1,Rainy,77.144,2,Chennai,Salt Lake City,8.56
+5.2,438,2,Foggy,77.1324,2,Chennai,Cyber Hub,8.01
+8.48,185,2,Clear,77.2623,4,Chennai,Marine Drive,7.34
+7.45,852,3,Foggy,77.2087,1,Chennai,Connaught Place,6.69
+6.72,710,3,Clear,77.2342,2,Mumbai,Phoenix Marketcity,7.75
+9.36,162,3,Rainy,77.0629,4,New Delhi,Indiranagar,5.69
+9.8,874,2,Cloudy,77.1918,4,New Delhi,Marine Drive,6.75
+3.47,597,1,Rainy,77.1224,2,Mumbai,Park Street,9.13
+0.91,908,1,Foggy,77.1047,1,Kolkata,Marine Drive,10.0
+8.34,341,3,Clear,77.2749,1,Chennai,Cyber Hub,7.13
+0.63,160,2,Cloudy,77.2751,4,New Delhi,Connaught Place,10.0
+2.0,999,2,Rainy,77.2097,2,Chennai,MG Road,9.6
+7.42,932,2,Clear,77.1122,4,Bangalore,Cyber Hub,7.92
+5.56,887,2,Clear,77.2877,5,Chennai,Phoenix Marketcity,8.45
+9.98,696,3,Rainy,77.0307,1,New Delhi,Marine Drive,5.85
+2.39,786,1,Foggy,77.193,1,Chennai,Marine Drive,9.5
+4.73,561,3,Foggy,77.1147,2,Mumbai,Brigade Road,7.62
+0.27,895,3,Stormy,77.08,3,Kolkata,Connaught Place,9.17
+4.67,670,1,Stormy,77.0507,2,Mumbai,Indiranagar,8.27
+7.97,146,1,Cloudy,77.1512,4,Bangalore,Cyber Hub,7.54
+3.6,633,1,Cloudy,77.2408,4,Bangalore,DLF Mall,9.39
+2.18,888,2,Stormy,77.0352,4,Kolkata,DLF Mall,8.91
+5.71,746,2,Clear,77.0684,5,Chennai,Brigade Road,8.37
+3.78,497,2,Foggy,77.0064,4,Chennai,MG Road,8.39
+3.92,857,2,Clear,77.2452,5,New Delhi,Phoenix Marketcity,9.1
+9.79,130,1,Foggy,77.0027,2,Bangalore,Indiranagar,6.31
+4.73,487,2,Clear,77.0041,3,New Delhi,Cyber Hub,9.01
+1.24,938,3,Foggy,77.1977,1,Kolkata,Marine Drive,9.19
+4.57,496,3,Rainy,77.2674,2,Bangalore,Park Street,7.87
+2.31,164,3,Stormy,77.1819,1,Kolkata,Connaught Place,8.41
+0.63,484,2,Stormy,77.1109,3,Bangalore,MG Road,9.54
+0.17,922,3,Stormy,77.2299,3,New Delhi,Salt Lake City,9.22
+6.41,619,3,Clear,77.124,1,Mumbai,Connaught Place,7.96
+8.07,997,3,Foggy,77.2697,2,Bangalore,DLF Mall,6.37
+3.09,316,3,Stormy,77.0267,5,Mumbai,Connaught Place,7.63
+6.5,258,3,Cloudy,77.1502,4,Chennai,Cyber Hub,7.35
+6.17,954,1,Foggy,77.0372,5,Kolkata,Phoenix Marketcity,7.52
+1.87,674,1,Foggy,77.1488,4,New Delhi,Park Street,9.39
+0.92,740,2,Rainy,77.0608,4,New Delhi,Cyber Hub,9.78
+5.06,267,2,Cloudy,77.0236,1,Bangalore,MG Road,8.83
+9.29,894,1,Foggy,77.1848,3,Bangalore,Indiranagar,6.56
+1.47,166,1,Foggy,77.2632,2,Chennai,Salt Lake City,9.65
+9.17,707,3,Stormy,77.1161,2,Kolkata,Park Street,5.67
+1.3,131,2,Clear,77.0782,4,Bangalore,Salt Lake City,10.0
+1.19,64,2,Cloudy,77.1384,2,Mumbai,MG Road,10.0
+4.89,739,2,Clear,77.2171,5,Chennai,Park Street,8.69
+6.79,448,1,Clear,77.2279,1,Bangalore,Cyber Hub,8.57
+6.09,117,2,Rainy,77.211,3,Bangalore,Phoenix Marketcity,7.69
+9.09,168,3,Rainy,77.1838,3,Kolkata,DLF Mall,5.9
+7.42,603,2,Stormy,77.0076,1,Chennai,Brigade Road,7.05
+1.92,912,2,Cloudy,77.2251,2,Mumbai,Phoenix Marketcity,10.0
+6.9,864,1,Cloudy,77.0449,1,New Delhi,Park Street,8.41
+1.9,968,3,Stormy,77.0764,5,Kolkata,Park Street,8.23
+4.36,490,3,Foggy,77.0909,5,New Delhi,Marine Drive,7.35
+0.73,792,1,Stormy,77.0011,3,Mumbai,Marine Drive,9.77
+2.87,476,1,Clear,77.0625,5,Bangalore,Connaught Place,9.65
+9.69,498,3,Cloudy,77.107,1,Bangalore,Cyber Hub,6.42
+6.14,457,3,Foggy,77.1346,3,Kolkata,DLF Mall,6.94
+7.04,263,3,Rainy,77.2727,3,Chennai,Salt Lake City,6.74
+9.28,606,2,Foggy,77.0698,1,New Delhi,Connaught Place,6.51
+0.5,584,1,Stormy,77.1007,1,Kolkata,Phoenix Marketcity,10.0
+4.44,602,1,Rainy,77.2914,3,Mumbai,Park Street,8.64
+4.37,162,3,Stormy,77.0089,2,New Delhi,Park Street,7.48
+1.22,391,3,Stormy,77.0372,2,Chennai,Brigade Road,8.79
+1.35,161,1,Cloudy,77.1272,3,Mumbai,Indiranagar,10.0
+8.43,80,2,Stormy,77.1617,2,Mumbai,Indiranagar,6.44
+5.44,907,1,Clear,77.2372,4,New Delhi,MG Road,8.91
+8.65,728,3,Cloudy,77.1657,5,New Delhi,Connaught Place,6.39
+9.24,588,3,Stormy,77.2705,3,New Delhi,Indiranagar,5.52
+9.43,628,1,Stormy,77.0194,2,Kolkata,Phoenix Marketcity,6.35
+6.08,278,3,Stormy,77.0626,5,New Delhi,MG Road,6.42
+4.57,989,3,Rainy,77.1878,5,Mumbai,Connaught Place,7.57
+5.85,211,2,Clear,77.1244,1,Chennai,MG Road,8.7
+4.85,476,1,Cloudy,77.2268,4,Mumbai,DLF Mall,8.86
+8.52,604,2,Stormy,77.1505,1,Bangalore,Park Street,6.61
+2.41,335,2,Clear,77.2336,4,Kolkata,Phoenix Marketcity,9.8
+6.55,603,2,Rainy,77.1879,2,Kolkata,Phoenix Marketcity,7.7
+5.16,740,2,Cloudy,77.2812,4,Bangalore,Indiranagar,8.58
+3.67,630,1,Cloudy,77.0418,5,Chennai,Salt Lake City,9.16
+2.68,549,2,Clear,77.2419,3,Kolkata,DLF Mall,9.84
+5.07,662,3,Clear,77.0459,3,New Delhi,Connaught Place,8.3
+6.66,222,2,Clear,77.0855,5,Chennai,DLF Mall,7.88
+2.57,531,2,Clear,77.1107,4,Kolkata,Park Street,9.78
+5.5,192,2,Rainy,77.0442,1,Bangalore,Salt Lake City,8.14
+1.14,750,2,Foggy,77.0421,4,Chennai,Indiranagar,9.49
+2.36,641,2,Foggy,77.0795,2,Mumbai,DLF Mall,9.18
+0.69,335,1,Stormy,77.0193,4,Chennai,Indiranagar,9.59
+2.58,948,3,Clear,77.0511,1,Mumbai,Brigade Road,9.56
+1.36,178,3,Stormy,77.1145,1,Bangalore,Indiranagar,8.79
+1.65,742,2,Rainy,77.048,1,Bangalore,DLF Mall,9.79
+1.49,569,2,Cloudy,77.1844,4,Chennai,Connaught Place,10.0
+4.4,830,3,Foggy,77.1977,1,Mumbai,Salt Lake City,7.91
+5.59,93,2,Clear,77.2488,5,Bangalore,DLF Mall,8.28
+2.37,267,2,Cloudy,77.0473,2,New Delhi,Connaught Place,9.81
+5.75,337,1,Stormy,77.2629,4,Kolkata,Indiranagar,7.57
+3.67,513,2,Cloudy,77.2192,2,Kolkata,Brigade Road,9.33
+8.39,897,1,Foggy,77.0765,1,Chennai,MG Road,7.12
+1.7,172,1,Cloudy,77.1026,3,Kolkata,MG Road,10.0
+1.62,767,3,Rainy,77.2377,5,Bangalore,Phoenix Marketcity,8.71
+5.77,842,2,Cloudy,77.2631,2,Chennai,MG Road,8.56
+0.9,139,3,Cloudy,77.1681,3,Kolkata,Salt Lake City,9.67
+2.37,598,2,Clear,77.2479,5,Mumbai,Indiranagar,9.67
+5.91,324,1,Foggy,77.0516,2,Chennai,Indiranagar,7.9
+7.3,269,1,Cloudy,77.2551,4,Bangalore,Brigade Road,7.83
+7.27,827,1,Rainy,77.1583,5,Chennai,Brigade Road,7.26
+9.62,981,3,Cloudy,77.2978,5,New Delhi,Connaught Place,6.05
+6.91,966,2,Cloudy,77.2295,4,Bangalore,Connaught Place,7.93
+5.37,910,3,Stormy,77.0616,5,Kolkata,Indiranagar,6.83
+4.35,237,1,Foggy,77.2438,3,Chennai,Marine Drive,8.41
+4.82,509,1,Cloudy,77.0475,3,Mumbai,Connaught Place,8.97
+9.35,869,2,Stormy,77.1721,5,Chennai,Salt Lake City,5.83
+6.55,448,1,Cloudy,77.0348,2,Kolkata,Brigade Road,8.37
+2.59,247,2,Stormy,77.2299,5,Kolkata,Cyber Hub,8.41
+8.21,929,3,Clear,77.0891,4,Bangalore,Park Street,7.0
+5.89,304,1,Stormy,77.1376,5,Chennai,Cyber Hub,7.3
+6.23,613,1,Rainy,77.0292,5,New Delhi,Salt Lake City,7.63
+7.62,432,2,Stormy,77.1658,3,Mumbai,Connaught Place,6.74
+5.23,435,1,Foggy,77.2053,2,Kolkata,Salt Lake City,8.2
+3.66,921,1,Foggy,77.2777,1,Mumbai,Brigade Road,9.02
+0.63,403,3,Foggy,77.2237,1,New Delhi,MG Road,9.33
+8.42,315,3,Cloudy,77.2908,1,New Delhi,Indiranagar,6.89
+4.9,358,2,Stormy,77.0889,4,Kolkata,DLF Mall,7.71
+6.73,186,3,Rainy,77.2147,1,Bangalore,DLF Mall,7.05
+4.3,739,3,Foggy,77.001,3,Kolkata,Park Street,7.73
+4.83,186,2,Rainy,77.1083,2,New Delhi,Park Street,8.31
+7.38,396,3,Rainy,77.0496,1,Kolkata,Park Street,6.83
+7.52,333,2,Clear,77.0618,1,Bangalore,MG Road,8.06
+8.39,639,1,Rainy,77.142,2,Mumbai,DLF Mall,7.17
+8.83,534,3,Cloudy,77.0236,2,Bangalore,Park Street,6.67
+6.14,145,1,Clear,77.2012,4,Bangalore,MG Road,8.47
+8.31,631,1,Clear,77.0847,5,Mumbai,Brigade Road,7.5
+2.67,429,2,Cloudy,77.0392,2,Kolkata,Connaught Place,9.72
+8.98,264,2,Foggy,77.2996,2,Chennai,Brigade Road,6.46
+8.56,729,1,Cloudy,77.2122,1,Mumbai,Marine Drive,7.72
+8.62,977,2,Clear,77.0395,4,Kolkata,Phoenix Marketcity,7.45
+2.04,802,3,Stormy,77.0477,4,Kolkata,MG Road,8.34
+9.9,810,1,Rainy,77.1576,3,Kolkata,MG Road,6.5
+7.35,589,2,Stormy,77.1035,4,Kolkata,Park Street,6.78
+3.69,242,1,Clear,77.0999,2,New Delhi,Indiranagar,9.67
+8.54,704,1,Stormy,77.2996,5,Mumbai,Salt Lake City,6.32
+9.13,379,1,Foggy,77.2247,5,Chennai,Marine Drive,6.22
+2.83,880,1,Clear,77.2838,3,New Delhi,Phoenix Marketcity,10.0
+6.22,727,1,Foggy,77.2833,4,Mumbai,DLF Mall,7.66
+5.42,641,3,Cloudy,77.0625,2,Bangalore,Connaught Place,8.06
+4.5,334,2,Foggy,77.2564,1,Kolkata,Cyber Hub,8.37
+3.95,839,2,Rainy,77.1739,5,Kolkata,Cyber Hub,8.39
+5.06,266,2,Cloudy,77.0055,1,Chennai,Connaught Place,8.83
+8.51,818,1,Foggy,77.1859,3,New Delhi,Cyber Hub,6.86
+7.76,674,1,Stormy,77.079,1,Chennai,Park Street,7.13
+5.93,909,2,Rainy,77.1453,5,Chennai,DLF Mall,7.61
+5.52,635,1,Cloudy,77.1147,3,Mumbai,MG Road,8.72
+3.86,372,2,Cloudy,77.2757,1,Chennai,Salt Lake City,9.33
+4.72,79,1,Stormy,77.08,5,Chennai,Phoenix Marketcity,7.73
+3.17,865,3,Foggy,77.292,2,Kolkata,Indiranagar,8.3
+5.92,865,1,Stormy,77.1695,5,Bangalore,Salt Lake City,7.41
+8.11,287,2,Rainy,77.0296,4,New Delhi,DLF Mall,6.81
+9.3,897,2,Clear,77.2286,2,Chennai,MG Road,7.36
+7.7,444,2,Cloudy,77.1468,1,Bangalore,Park Street,7.81
+9.46,772,1,Foggy,77.071,5,Bangalore,Salt Lake City,6.17
+5.64,726,2,Clear,77.2868,1,Bangalore,Marine Drive,8.89
+7.52,691,1,Stormy,77.2253,4,Kolkata,Indiranagar,6.93
+3.46,146,3,Stormy,77.0425,2,New Delhi,Phoenix Marketcity,7.85
+9.21,751,1,Clear,77.094,4,Mumbai,MG Road,7.37
+5.75,307,1,Cloudy,77.2867,3,Bangalore,Connaught Place,8.56
+5.72,151,2,Stormy,77.2263,5,Bangalore,Phoenix Marketcity,7.14
+9.11,846,2,Clear,77.0728,2,Chennai,Salt Lake City,7.43
+9.88,652,2,Rainy,77.1257,1,Kolkata,Connaught Place,6.48
+3.05,688,2,Rainy,77.0305,2,Mumbai,Phoenix Marketcity,9.12
+7.35,88,3,Cloudy,77.0125,1,Bangalore,Connaught Place,7.28
+6.61,791,3,Stormy,77.1287,3,Mumbai,Brigade Road,6.61
+7.72,818,3,Clear,77.2607,2,Mumbai,Cyber Hub,7.38
+5.54,453,1,Foggy,77.1525,4,Kolkata,Salt Lake City,7.87
+9.23,283,1,Cloudy,77.0464,3,Bangalore,MG Road,7.16
+3.5,779,1,Rainy,77.04,5,Mumbai,Marine Drive,8.76
+1.0,912,2,Stormy,77.2594,5,Mumbai,Salt Lake City,9.18
+6.24,343,2,Cloudy,77.0687,2,Kolkata,Salt Lake City,8.27
+4.72,146,2,Clear,77.1611,2,Bangalore,MG Road,9.04
+4.93,327,3,Foggy,77.0457,3,New Delhi,Salt Lake City,7.39
+6.47,545,1,Cloudy,77.201,3,Kolkata,Park Street,8.32
+4.05,639,3,Clear,77.2817,5,Mumbai,Marine Drive,8.41
+4.41,150,1,Clear,77.0943,4,Bangalore,Phoenix Marketcity,9.17
+3.64,628,1,Cloudy,77.2561,2,Mumbai,Marine Drive,9.57
+9.7,696,1,Rainy,77.2214,1,New Delhi,Cyber Hub,6.76
+6.13,964,3,Rainy,77.2874,2,Kolkata,Park Street,7.34
+4.05,321,1,Rainy,77.0183,2,Chennai,Marine Drive,8.84
+4.59,379,1,Rainy,77.0944,4,Chennai,Connaught Place,8.44
+7.69,828,3,Stormy,77.2192,4,Mumbai,Park Street,6.09
+9.02,260,1,Stormy,77.131,2,Kolkata,Brigade Road,6.44
+4.33,824,1,Stormy,77.2909,3,Kolkata,Cyber Hub,8.33
+0.36,739,2,Stormy,77.2096,1,Mumbai,Phoenix Marketcity,9.9
+2.74,273,1,Cloudy,77.2982,4,New Delhi,Park Street,9.66
+7.49,142,2,Foggy,77.1434,3,Kolkata,Park Street,6.93
+4.38,611,1,Clear,77.0008,2,Mumbai,Brigade Road,9.47
+3.42,529,2,Rainy,77.2354,5,Chennai,Marine Drive,8.54
+0.32,182,1,Rainy,77.1033,2,Chennai,MG Road,10.0
+3.94,661,1,Clear,77.2795,1,Bangalore,DLF Mall,9.76
+3.52,946,2,Stormy,77.2214,3,Kolkata,Park Street,8.48
+4.56,240,3,Clear,77.0987,5,Chennai,MG Road,8.12
+1.98,683,1,Rainy,77.1802,2,New Delhi,DLF Mall,9.74
+4.04,738,1,Clear,77.1161,2,Mumbai,Salt Lake City,9.63
+3.62,260,3,Foggy,77.2474,1,Chennai,Connaught Place,8.1
+2.42,351,2,Rainy,77.2934,2,New Delhi,MG Road,9.3
+7.96,646,2,Stormy,77.1315,3,Chennai,Cyber Hub,6.65
+5.46,626,3,Clear,77.0145,3,Kolkata,Cyber Hub,8.14
+2.64,495,3,Clear,77.0956,1,New Delhi,Salt Lake City,9.44
+9.61,941,2,Stormy,77.2418,5,Chennai,MG Road,5.74
+0.38,842,3,Cloudy,77.0681,4,Chennai,Brigade Road,9.92
+8.6,251,3,Foggy,77.1923,4,New Delhi,DLF Mall,5.81
+6.36,830,3,Foggy,77.2924,4,Bangalore,Brigade Road,6.82
+0.73,584,3,Cloudy,77.192,1,Bangalore,DLF Mall,10.0
+8.43,690,2,Stormy,77.2656,2,Mumbai,Phoenix Marketcity,6.57
+6.0,744,1,Cloudy,77.0262,3,Kolkata,Indiranagar,8.55
+6.5,832,2,Rainy,77.1539,3,Mumbai,Connaught Place,7.67
+7.07,71,2,Stormy,77.1768,3,Chennai,Cyber Hub,6.89
+3.22,947,3,Foggy,77.0028,2,Mumbai,DLF Mall,8.3
+6.53,833,2,Clear,77.1555,3,Chennai,Park Street,8.35
+4.21,848,2,Stormy,77.0451,4,Kolkata,Marine Drive,8.09
+8.77,527,2,Cloudy,77.1419,5,New Delhi,Park Street,6.9
+6.44,667,3,Foggy,77.1959,4,New Delhi,Phoenix Marketcity,6.76
+2.39,744,1,Stormy,77.0482,3,Kolkata,Indiranagar,9.09
+7.18,528,3,Clear,77.2331,3,Chennai,Marine Drive,7.43
+3.79,559,3,Stormy,77.0101,4,Kolkata,Brigade Road,7.6
+8.67,230,3,Cloudy,77.2075,3,Mumbai,Brigade Road,6.58
+1.48,71,1,Foggy,77.0219,3,Chennai,Salt Lake City,9.52
+3.34,78,1,Clear,77.0475,2,Kolkata,Brigade Road,9.78
+8.93,803,1,Stormy,77.2793,1,Bangalore,Cyber Hub,6.69
+1.88,623,2,Clear,77.215,5,New Delhi,Brigade Road,9.87
+5.38,422,3,Foggy,77.2789,3,Mumbai,Phoenix Marketcity,7.23
+4.69,846,1,Cloudy,77.1148,4,New Delhi,DLF Mall,8.99
+4.0,254,2,Foggy,77.2175,5,Kolkata,Indiranagar,8.05
+1.94,682,2,Rainy,77.1502,5,Kolkata,Cyber Hub,9.16
+4.91,916,1,Foggy,77.147,4,Bangalore,Marine Drive,8.22
+0.99,600,2,Stormy,77.1352,3,Mumbai,Park Street,9.42
+3.13,733,3,Stormy,77.1017,3,Kolkata,Marine Drive,7.99
+8.46,540,2,Cloudy,77.2687,4,Bangalore,Connaught Place,7.22
+3.04,523,2,Stormy,77.0727,3,Bangalore,Indiranagar,8.59
+9.95,173,2,Cloudy,77.129,1,Bangalore,MG Road,6.85
+7.73,758,2,Rainy,77.2836,1,New Delhi,Brigade Road,7.36
+8.96,333,1,Rainy,77.1907,5,Bangalore,MG Road,6.48
+9.47,91,1,Foggy,77.122,4,Chennai,Park Street,6.23
+1.01,536,2,Foggy,77.189,3,Mumbai,Connaught Place,9.6
+6.67,764,2,Rainy,77.1552,1,Kolkata,Salt Lake City,7.78
+2.77,266,1,Foggy,77.0905,1,Kolkata,MG Road,9.25
+0.89,383,1,Clear,77.2413,3,New Delhi,Salt Lake City,10.0
+4.33,490,3,Cloudy,77.2507,1,Mumbai,Phoenix Marketcity,8.57
+8.62,549,2,Rainy,77.1142,3,Kolkata,Connaught Place,6.76
+7.82,942,3,Rainy,77.0562,5,Mumbai,Connaught Place,6.26
+8.13,910,2,Rainy,77.0168,4,Chennai,Cyber Hub,6.93
+3.9,272,3,Cloudy,77.1656,5,Kolkata,DLF Mall,8.19
+1.36,303,2,Stormy,77.1236,2,Chennai,Brigade Road,9.32
+9.98,243,3,Rainy,77.0259,4,Chennai,DLF Mall,5.46
+5.55,379,1,Foggy,77.1685,2,Mumbai,Brigade Road,8.06
+6.75,640,1,Stormy,77.2952,1,New Delhi,Park Street,7.53
+8.52,964,1,Rainy,77.2883,2,New Delhi,Phoenix Marketcity,7.18
+6.41,62,2,Clear,77.0554,4,Kolkata,Salt Lake City,8.15
+5.99,400,2,Stormy,77.1662,3,Chennai,Brigade Road,7.38
+2.88,799,1,Rainy,77.1621,2,Chennai,Park Street,9.41
+0.89,726,2,Clear,77.1013,2,Mumbai,Connaught Place,10.0
+3.62,804,1,Cloudy,77.1983,1,New Delhi,Phoenix Marketcity,9.71
+6.98,878,1,Cloudy,77.2448,3,Chennai,MG Road,8.18
+0.23,438,1,Clear,77.1971,2,Mumbai,Phoenix Marketcity,10.0
+5.07,797,3,Clear,77.0675,4,Kolkata,MG Road,8.23
+8.32,408,3,Cloudy,77.0984,4,Mumbai,Indiranagar,6.65
+7.1,839,1,Cloudy,77.2799,5,Chennai,Park Street,7.83
+4.75,702,2,Clear,77.0061,4,Bangalore,Connaught Place,8.94
+2.54,911,3,Stormy,77.2747,2,Chennai,DLF Mall,8.37
+3.37,941,2,Rainy,77.1213,1,New Delhi,Indiranagar,9.14
+6.59,568,1,Foggy,77.166,4,Chennai,MG Road,7.48
+6.72,176,2,Foggy,77.1419,4,Bangalore,Salt Lake City,7.15
+5.19,614,2,Clear,77.12,2,Chennai,Salt Lake City,8.95
+7.85,967,3,Cloudy,77.157,1,Kolkata,Indiranagar,7.25
+8.65,73,2,Rainy,77.2113,4,New Delhi,Connaught Place,6.55
+2.83,865,2,Rainy,77.2728,5,Kolkata,Marine Drive,8.84
+6.9,116,2,Cloudy,77.0184,4,Kolkata,Marine Drive,7.76
+5.92,487,1,Foggy,77.0198,2,Chennai,Salt Lake City,7.93
+4.46,320,2,Stormy,77.1218,5,Chennai,Cyber Hub,7.68
+8.23,229,1,Clear,77.2494,5,Chennai,Marine Drive,7.45
+3.84,817,3,Cloudy,77.1921,2,Chennai,Connaught Place,8.73
+3.03,589,2,Cloudy,77.2386,5,New Delhi,MG Road,9.21
+2.14,307,3,Cloudy,77.2425,5,Chennai,Cyber Hub,8.91
+5.15,244,2,Clear,77.0868,2,Kolkata,Brigade Road,8.89
+2.02,865,3,Foggy,77.2993,2,Mumbai,Marine Drive,8.77
+1.03,682,3,Foggy,77.2285,3,New Delhi,Connaught Place,9.02
+7.96,756,1,Stormy,77.1689,2,Kolkata,Cyber Hub,6.97
+9.09,357,3,Stormy,77.1865,2,Kolkata,Phoenix Marketcity,5.64
+9.17,950,2,Clear,77.0314,3,Mumbai,Brigade Road,7.32
+7.25,83,1,Cloudy,77.247,1,Bangalore,DLF Mall,8.12
+6.28,605,1,Stormy,77.2119,4,Chennai,Park Street,7.41
+7.04,599,2,Clear,77.2484,2,Bangalore,Cyber Hub,8.2
